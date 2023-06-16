@@ -1,4 +1,4 @@
-# Computer Vision with CIFAR-10 Dataset
+# 🌟Computer Vision with CIFAR-10 Dataset🌟
 
 This project focuses on implementing computer vision techniques using the CIFAR-10 dataset. The CIFAR-10 dataset is a collection of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The goal of this project is to train a model that can accurately classify these images into their respective categories.
 
